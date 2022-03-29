@@ -1,2 +1,0 @@
-# Portfolio
- Proyecto Oracle ONE
